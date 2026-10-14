@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/badge/Website-najeeb.net-0A66C2?style=flat-square)](https://najeeb.net)
 [![GitHub](https://img.shields.io/badge/GitHub-njarrar-181717?style=flat-square&logo=github)](https://github.com/njarrar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-njarrar-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/njarrar)
 
 I trained as a computer engineer and wrote software before I moved into marketing. I have been at Google since 2008, first on global app marketing in California and now in Dubai, where I lead product and marketing across the Middle East and Africa. I also lead Arabic language and products work at Google.
 
@@ -45,4 +46,5 @@ The projects here are nights and weekends work. Most start as a small tool I wan
 ## Elsewhere
 
 - Website: [najeeb.net](https://najeeb.net)
+- LinkedIn: [linkedin.com/in/njarrar](https://www.linkedin.com/in/njarrar)
 - GitHub: [github.com/njarrar](https://github.com/njarrar)
