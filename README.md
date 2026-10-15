@@ -11,7 +11,7 @@ The projects here are nights and weekends work. Most start as a small tool I wan
 ## What I Build Around
 
 - **Local first tools** - Apps that run on your own machine and keep your data there, from DNA files to bookmarks to photos.
-- **New code for old Windows** - Small native apps for Windows 98, 2000 and XP, written in plain C with no runtime.
+- **New code for old Windows** - Small native apps and tools for Windows 98, 2000 and XP, written in plain C with no runtime.
 - **Arabic and the region** - Tools and games set in Dubai, Riyadh and Amman, that work in Arabic as well as English.
 
 ## Featured Projects
@@ -31,6 +31,8 @@ The projects here are nights and weekends work. Most start as a small tool I wan
 👗 **[Wardrobe](https://github.com/njarrar/wardrobe-web-ios)** - Your closet on the web and on iPhone. Snap a photo, and the AI model you pick finds each piece, cuts it out and styles outfits from what you own.
 
 ## Retro and System Tools
+
+🏁 **[RetroWinBench](https://github.com/njarrar/RetroWinBench)** - A benchmark for Windows 98 and XP PCs. It tests the CPU, RAM, disk and 3D card, gives one score against a year 2000 Pentium III, matches your PC to a year from 1997 to 2008, and lists which of 135 classic games it can run. One 64 KB exe.
 
 📝 **[TinyCodeXP](https://github.com/njarrar/TinyCodeXP)** - A code editor for Windows XP in the style of VS Code. Plain Win32 C, built with Tiny C Compiler, shipped as one 192 KB exe.
 
