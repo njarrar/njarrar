@@ -26,7 +26,7 @@ The projects here are nights and weekends work. Most start as a small tool I wan
 
 🔖 **[Sunroom](https://github.com/njarrar/sunroom-app)** - A calm place to read your X bookmarks. Browse, search, tag and take notes, with everything sorted into topics for you. Runs on your own machine.
 
-📷 **[Back Then](https://github.com/njarrar/PicturesFromthisday)** - An iPhone and Android app that opens on today's date and shows the photos you took on this day in past years.
+📷 **[Flashback (formally known as : Back Then)](https://github.com/njarrar/PicturesFromthisday)** - An iPhone and Android app that opens on today's date and shows the photos you took on this day in past years.
 
 👗 **[Wardrobe](https://github.com/njarrar/wardrobe-web-ios)** - Your closet on the web and on iPhone. Snap a photo, and the AI model you pick finds each piece, cuts it out and styles outfits from what you own.
 
